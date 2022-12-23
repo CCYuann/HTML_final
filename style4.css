@@ -1,0 +1,93 @@
+@import url(http://fonts.googleapis.com/earlyaccess/cwtexyen.css);
+body {
+  font-family: Helvetica, serif;
+  font-family: "cwTeXYen", sans-serif;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+
+  background-image: linear-gradient(
+    to top,
+    rgba(19, 181, 22, 0.6),
+    rgba(16, 96, 4, 0.6)
+  );
+  z-index: 1;
+}
+
+span {
+  color: FIREBRICK;
+  font-size: 150%;
+}
+
+.img1 {
+  width: 500px;
+  position: absolute;
+  top: 22%;
+  right: 5%;
+}
+
+.img2 {
+  width: 500px;
+  position: absolute;
+  bottom: 10%;
+  left: 5%;
+}
+
+img.picture {
+  width: 350px;
+  position: absolute;
+}
+
+.msg2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 35vh;
+}
+.msg1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 30vh;
+}
+.bleed1 {
+  position: absolute;
+  top: 25%;
+  left: 10%;
+}
+.bleed2 {
+  position: absolute;
+  top: 60%;
+  right: 13%;
+}
+
+.bleed1 div {
+  color: block;
+  font-size: large;
+  text-align: center;
+}
+
+.bleed2 div {
+  color: block;
+  font-size: large;
+  text-align: center;
+}
+
+.de1 {
+  position: absolute;
+  color: rgb(132, 0, 155);
+  top: 25%;
+  left: 30%;
+  font-size: 30px;
+}
+
+.de2 {
+  position: absolute;
+  color: rgb(132, 0, 155);
+  top: 2%;
+  right: 32%;
+  font-size: 30px;
+}

@@ -1,0 +1,96 @@
+@import url(http://fonts.googleapis.com/earlyaccess/cwtexyen.css);
+body {
+  font-family: Helvetica, serif;
+  font-family: "cwTeXYen", sans-serif;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  background-image: url("background3.jpeg");
+  z-index: 1;
+}
+div {
+  display: flex;
+  flex-direction: row;
+  padding-top: 1.5%;
+}
+div div {
+  padding-left: 4%;
+}
+.img1 {
+  width: 260px;
+}
+.img1:hover {
+  border: 5px #ffac55 solid;
+}
+.img2 {
+  width: 260px;
+}
+.img2:hover {
+  border: 5px #ffac55 solid;
+}
+.img3 {
+  width: 260px;
+}
+.img3:hover {
+  border: 5px #ffac55 solid;
+}
+.img4 {
+  width: 260px;
+}
+.img4:hover {
+  border: 5px #ffac55 solid;
+}
+.img5 {
+  width: 260px;
+}
+.img5:hover {
+  border: 5px #ffac55 solid;
+}
+.img6 {
+  width: 260px;
+}
+.img6:hover {
+  border: 5px #ffac55 solid;
+}
+.img7 {
+  width: 260px;
+}
+.img7:hover {
+  border: 5px #ffac55 solid;
+}
+.img8 {
+  width: 260px;
+}
+.img8:hover {
+  z-index: 1;
+  border: 5px #ffac55 solid;
+}
+.box {
+  width: 100px;
+  height: 100px;
+  background: #aaa;
+}
+.button {
+  height: 50px;
+  width: 94px;
+  font-size: 30px;
+  text-align: center;
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 136, 255);
+  position: absolute;
+  bottom: 5%;
+  left: 45%;
+}
+
+.button1 {
+  height: 50px;
+  width: 94px;
+  font-size: 30px;
+  text-align: center;
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 136, 255);
+  position: absolute;
+  bottom: 5%;
+  left: 60%;
+}

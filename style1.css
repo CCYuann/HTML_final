@@ -1,0 +1,37 @@
+@import url(http://fonts.googleapis.com/earlyaccess/cwtexyen.css);
+body {
+  font-family: Helvetica, serif;
+  font-family: "cwTeXYen", sans-serif;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  background-image: url("background.png");
+}
+.account {
+  background-color: rgb(16, 16, 16);
+  font-size: 27px;
+  color: rgb(255, 140, 0);
+  position: absolute;
+  top: 50%;
+  left: 40%;
+}
+.password {
+  background-color: rgb(16, 16, 16);
+  font-size: 27px;
+  color: rgb(255, 140, 0);
+  position: absolute;
+  top: 57%;
+  left: 40%;
+}
+.button {
+  height: 50px;
+  width: 94px;
+  font-size: 30px;
+  text-align: center;
+  background-color: rgb(125, 0, 251);
+  color: rgb(0, 136, 255);
+  position: absolute;
+  top: 65%;
+  left: 55%;
+}
