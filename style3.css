@@ -21,48 +21,56 @@ div div {
   width: 260px;
 }
 .img1:hover {
+  box-sizing: border-box;
   border: 5px #ffac55 solid;
 }
 .img2 {
   width: 260px;
 }
 .img2:hover {
+  box-sizing: border-box;
   border: 5px #ffac55 solid;
 }
 .img3 {
   width: 260px;
 }
 .img3:hover {
+  box-sizing: border-box;
   border: 5px #ffac55 solid;
 }
 .img4 {
   width: 260px;
 }
 .img4:hover {
+  box-sizing: border-box;
   border: 5px #ffac55 solid;
 }
 .img5 {
   width: 260px;
 }
 .img5:hover {
+  box-sizing: border-box;
   border: 5px #ffac55 solid;
 }
 .img6 {
   width: 260px;
 }
 .img6:hover {
+  box-sizing: border-box;
   border: 5px #ffac55 solid;
 }
 .img7 {
   width: 260px;
 }
 .img7:hover {
+  box-sizing: border-box;
   border: 5px #ffac55 solid;
 }
 .img8 {
   width: 260px;
 }
 .img8:hover {
+  box-sizing: border-box;
   z-index: 1;
   border: 5px #ffac55 solid;
 }
